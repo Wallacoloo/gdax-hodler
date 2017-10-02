@@ -1,0 +1,6 @@
+/target/
+**/*.rs.bk
+api.key
+api.passphrase
+api.secret
+gdax-client/
